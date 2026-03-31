@@ -1,4 +1,4 @@
-# AMD ISP4 Camera Driver
+# AMD ISP4 Camera Driver - Update to Fix v9 Issue
 
 Out-of-tree module for the AMD ISP4 camera found in Ryzen AI laptops (e.g., ASUS Zenbook S 16, HP ZBook Ultra G1a).
 
